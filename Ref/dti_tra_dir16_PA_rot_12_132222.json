@@ -27,6 +27,7 @@
 	"RepetitionTime": 5.865,
 	"FlipAngle": 90,
 	"PhaseEncodingDirectionDisplayed": "A->P",
+	"PartialFourier": 0.5,
 	"EchoTrainLength": 32,
 	"AcquisitionMatrixPE": 64,
 	"ReconMatrixPE": 64,
@@ -63,5 +64,5 @@
 		0.0121906	],
 	"InPlanePhaseEncodingDirectionDICOM": "COL",
 	"ConversionSoftware": "dcm2niix",
-	"ConversionSoftwareVersion": "v1.0.20180931  GCC6.1.0"
+	"ConversionSoftwareVersion": "v1.0.20181027  GCC6.1.0"
 }
