@@ -23,6 +23,7 @@
 	"SliceThickness": 3.5,
 	"SpacingBetweenSlices": 4.2,
 	"SAR": 0.600523,
+	"NumberOfAverages": 6,
 	"EchoTime": 0.0707,
 	"RepetitionTime": 5.865,
 	"FlipAngle": 90,
@@ -64,5 +65,5 @@
 		0.0121906	],
 	"InPlanePhaseEncodingDirectionDICOM": "COL",
 	"ConversionSoftware": "dcm2niix",
-	"ConversionSoftwareVersion": "v1.0.20181027  GCC6.1.0"
+	"ConversionSoftwareVersion": "v1.0.20190308  GCC8.2.0"
 }

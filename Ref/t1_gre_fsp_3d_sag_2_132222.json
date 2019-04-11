@@ -28,7 +28,7 @@
 	"PhaseEncodingDirectionDisplayed": "A->P",
 	"EchoTrainLength": 160,
 	"AcquisitionMatrixPE": 230,
-	"ReconMatrixPE": 512,
+	"ReconMatrixPE": 460,
 	"TotalReadoutTime": 190.713,
 	"PixelBandwidth": 250,
 	"ImageOrientationPatientDICOM": [
@@ -40,5 +40,5 @@
 		-1	],
 	"InPlanePhaseEncodingDirectionDICOM": "ROW",
 	"ConversionSoftware": "dcm2niix",
-	"ConversionSoftwareVersion": "v1.0.20181027  GCC6.1.0"
+	"ConversionSoftwareVersion": "v1.0.20190308  GCC8.2.0"
 }
