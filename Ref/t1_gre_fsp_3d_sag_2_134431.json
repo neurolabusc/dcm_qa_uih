@@ -26,7 +26,6 @@
 	"InversionTime": 0.75,
 	"FlipAngle": 10,
 	"PhaseEncodingDirectionDisplayed": "A->P",
-	"EchoTrainLength": 160,
 	"AcquisitionMatrixPE": 230,
 	"ReconMatrixPE": 460,
 	"ParallelReductionFactorInPlane": 2.5,
@@ -41,5 +40,5 @@
 		-0.999663	],
 	"InPlanePhaseEncodingDirectionDICOM": "ROW",
 	"ConversionSoftware": "dcm2niix",
-	"ConversionSoftwareVersion": "v1.0.20190720  (JP2:OpenJPEG) (JP-LS:CharLS) Clang10.0.0"
+	"ConversionSoftwareVersion": "v1.0.20200331"
 }
