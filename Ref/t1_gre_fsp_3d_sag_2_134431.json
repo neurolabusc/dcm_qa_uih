@@ -2,7 +2,7 @@
 	"Modality": "MR",
 	"MagneticFieldStrength": 3,
 	"Manufacturer": "UIH",
-	"ManufacturersModelName": "uMR_770",
+	"ManufacturersModelName": "uMR 770",
 	"InstitutionName": "UIH",
 	"InstitutionAddress": "UIH",
 	"DeviceSerialNumber": "120015",
@@ -13,7 +13,7 @@
 	"MRAcquisitionType": "3D",
 	"SeriesDescription": "t1_gre_fsp_3d_sag",
 	"ProtocolName": "t1_gre_fsp_3d_sag",
-	"ScanningSequence": "GR_IR",
+	"ScanningSequence": "GR\\IR",
 	"SequenceVariant": "NONE",
 	"SequenceName": "gre_fsp",
 	"ImageType": ["ORIGINAL", "PRIMARY", "M", "UCA", "IF"],
@@ -40,5 +40,5 @@
 		-0.999663	],
 	"InPlanePhaseEncodingDirectionDICOM": "ROW",
 	"ConversionSoftware": "dcm2niix",
-	"ConversionSoftwareVersion": "v1.0.20200331"
+	"ConversionSoftwareVersion": "v1.0.20201030"
 }

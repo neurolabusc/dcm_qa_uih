@@ -2,7 +2,7 @@
 	"Modality": "MR",
 	"MagneticFieldStrength": 3,
 	"Manufacturer": "UIH",
-	"ManufacturersModelName": "uMR_770",
+	"ManufacturersModelName": "uMR 770",
 	"InstitutionName": "UIH",
 	"InstitutionAddress": "UIH",
 	"DeviceSerialNumber": "120015",
@@ -65,5 +65,5 @@
 		-0.00792131	],
 	"InPlanePhaseEncodingDirectionDICOM": "COL",
 	"ConversionSoftware": "dcm2niix",
-	"ConversionSoftwareVersion": "v1.0.20190308  GCC8.2.0"
+	"ConversionSoftwareVersion": "v1.0.20201030"
 }

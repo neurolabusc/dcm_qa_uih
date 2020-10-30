@@ -24,7 +24,7 @@ This software reports when there are any changes in behavior of the software. Ho
 ```
 cd dcm2niix
 git submodule update --remote
-git commit -am 'Update dcm_qa_nih submodule.'
+git commit -am 'Update dcm_qa_uih submodule.'
 git push
 ```
 
