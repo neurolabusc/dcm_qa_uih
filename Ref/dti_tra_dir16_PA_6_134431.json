@@ -7,7 +7,7 @@
 	"InstitutionAddress": "UIH",
 	"DeviceSerialNumber": "120015",
 	"StationName": "UIHMR",
-	"BodyPartExamined": "HEAD",
+	"BodyPart": "HEAD",
 	"PatientPosition": "HFS",
 	"SoftwareVersions": "R002",
 	"MRAcquisitionType": "2D",
@@ -17,7 +17,7 @@
 	"SequenceVariant": "NONE",
 	"ScanOptions": "FS",
 	"SequenceName": "epi_dti",
-	"ImageType": ["ORIGINAL", "PRIMARY", "M", "VFRAME"],
+	"ImageType": ["ORIGINAL", "PRIMARY", "M", "VFRAME", "MAGNITUDE"],
 	"SeriesNumber": 6,
 	"AcquisitionTime": "13:52:57.683000",
 	"SliceThickness": 3.5,
@@ -32,7 +32,7 @@
 	"AcquisitionMatrixPE": 64,
 	"ReconMatrixPE": 64,
 	"ParallelReductionFactorInPlane": 2,
-	"TotalReadoutTime": 0.022,
+	"TotalReadoutTime": 0.021,
 	"PixelBandwidth": 1750,
 	"PhaseEncodingAxis": "j",
 	"SliceTiming": [
@@ -65,5 +65,5 @@
 		-0.000885508	],
 	"InPlanePhaseEncodingDirectionDICOM": "COL",
 	"ConversionSoftware": "dcm2niix",
-	"ConversionSoftwareVersion": "v1.0.20230411"
+	"ConversionSoftwareVersion": "v1.0.20241127"
 }

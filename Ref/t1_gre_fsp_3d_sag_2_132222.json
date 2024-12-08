@@ -7,7 +7,7 @@
 	"InstitutionAddress": "UIH",
 	"DeviceSerialNumber": "120015",
 	"StationName": "UIHMR",
-	"BodyPartExamined": "HEAD",
+	"BodyPart": "HEAD",
 	"PatientPosition": "HFS",
 	"SoftwareVersions": "R002",
 	"MRAcquisitionType": "3D",
@@ -16,7 +16,7 @@
 	"ScanningSequence": "GR\\IR",
 	"SequenceVariant": "NONE",
 	"SequenceName": "gre_fsp",
-	"ImageType": ["ORIGINAL", "PRIMARY", "M", "UCA", "IF"],
+	"ImageType": ["ORIGINAL", "PRIMARY", "M", "UCA", "IF", "MAGNITUDE"],
 	"SeriesNumber": 2,
 	"SliceThickness": 1,
 	"SpacingBetweenSlices": 1,
@@ -40,5 +40,5 @@
 		-1	],
 	"InPlanePhaseEncodingDirectionDICOM": "ROW",
 	"ConversionSoftware": "dcm2niix",
-	"ConversionSoftwareVersion": "v1.0.20230411"
+	"ConversionSoftwareVersion": "v1.0.20241127"
 }
