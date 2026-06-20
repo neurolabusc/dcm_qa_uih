@@ -4,6 +4,7 @@
 	"Manufacturer": "UIH",
 	"ManufacturersModelName": "uMR 770",
 	"InstitutionName": "UIH",
+	"InstitutionalDepartmentName": "None",
 	"InstitutionAddress": "UIH",
 	"DeviceSerialNumber": "120015",
 	"StationName": "UIHMR",
@@ -15,6 +16,7 @@
 	"ProtocolName": "t1_gre_fsp_3d_sag",
 	"ScanningSequence": "GR\\IR",
 	"SequenceVariant": "NONE",
+	"PulseSequenceType": "Gradient Echo",
 	"SequenceName": "gre_fsp",
 	"ImageType": ["ORIGINAL", "PRIMARY", "M", "UCA", "IF", "MAGNITUDE"],
 	"SeriesNumber": 2,
@@ -40,5 +42,5 @@
 		-0.999663	],
 	"InPlanePhaseEncodingDirectionDICOM": "ROW",
 	"ConversionSoftware": "dcm2niix",
-	"ConversionSoftwareVersion": "v1.0.20241127"
+	"ConversionSoftwareVersion": "v1.0.20260620"
 }

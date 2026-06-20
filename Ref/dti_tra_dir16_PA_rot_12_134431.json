@@ -4,6 +4,7 @@
 	"Manufacturer": "UIH",
 	"ManufacturersModelName": "uMR 770",
 	"InstitutionName": "UIH",
+	"InstitutionalDepartmentName": "None",
 	"InstitutionAddress": "UIH",
 	"DeviceSerialNumber": "120015",
 	"StationName": "UIHMR",
@@ -15,6 +16,7 @@
 	"ProtocolName": "dti_tra_dir16_PA_rot",
 	"ScanningSequence": "EP",
 	"SequenceVariant": "NONE",
+	"PulseSequenceType": "Gradient Echo EPI",
 	"ScanOptions": "FS",
 	"SequenceName": "epi_dti",
 	"ImageType": ["ORIGINAL", "PRIMARY", "M", "VFRAME", "MAGNITUDE"],
@@ -65,5 +67,5 @@
 		-0.00792131	],
 	"InPlanePhaseEncodingDirectionDICOM": "COL",
 	"ConversionSoftware": "dcm2niix",
-	"ConversionSoftwareVersion": "v1.0.20241127"
+	"ConversionSoftwareVersion": "v1.0.20260620"
 }
